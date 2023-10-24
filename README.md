@@ -2,7 +2,7 @@
 
 For integrated stockpile management.
 
-# Arch
+## Arch
 
 ```mermaid
 %%{init:{'theme':'neutral'}}%%
