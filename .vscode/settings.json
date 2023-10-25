@@ -1,9 +1,10 @@
 {
-    "cSpell.words": [
-        "connectrpc",
-        "Crawlee",
-        "preparo",
-        "Takashi"
-    ],
-    "dart.flutterSdkPath": ".fvm/versions/stable"
+  "cSpell.words": [
+    "connectrpc",
+    "Crawlee",
+    "preapro",
+    "preparo",
+    "Takashi"
+  ],
+  "dart.flutterSdkPath": ".fvm/versions/stable"
 }
