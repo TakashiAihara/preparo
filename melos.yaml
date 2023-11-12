@@ -1,4 +1,8 @@
 name: preparo
 
 packages:
-  - apps/*/front/mobile
+  - apps/user/front/mobile
+
+scripts:
+  analyze:
+    exec: dart analyze .
